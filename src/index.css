@@ -26,8 +26,8 @@
     background-color: #fafbf9;
     overflow: hidden;
     position: relative;
-    max-width: 500px !important;
-    min-width: 300px !important;
+    max-width: 500px;
+    min-width: 500px;
 }
 
 .container .wrapper h3 {
@@ -83,6 +83,8 @@
     .container .wrapper{
         max-width: 320px;
         padding: 10px 0;
+        max-width: 300px;
+        min-width: 300px;
     }
 
     .container .wrapper .form input{
